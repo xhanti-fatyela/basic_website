@@ -1,0 +1,39 @@
+table,
+
+th,
+
+td {
+
+    border: 3px solid gold;
+
+}
+
+table {
+    width: 100%;
+}
+.picture {
+       float: left;
+       padding: 2em;
+}
+
+* {
+    font-family: 'Titan One', cursive , bold;
+    
+}
+
+.row {
+
+    float: right;
+} 
+
+.row2 {
+     
+    float: left;
+
+}
+
+.pictures2 {
+    float: left;
+    padding: 2em;
+}
+
